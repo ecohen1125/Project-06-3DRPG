@@ -1,7 +1,12 @@
 # Project-06
 
-# Features added
+## Implementation / Features you added
 
-# References to resources used in the project
+## References
 
-# Created by
+
+## Future Development
+None
+
+## Created by
+Eli Cohen
