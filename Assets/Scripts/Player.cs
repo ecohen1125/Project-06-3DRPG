@@ -26,9 +26,7 @@ public class Player : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.F)) {
             if (Physics.Raycast(rayLocation.transform.position, transform.forward, out hit, 5)) {
                 if (hit.collider.gameObject.tag == "npc") {
-                    //hit.collider.gameObject.GetComponent<ScriptMachine>().talk;
                     CustomEvent.Trigger(hit.collider.gameObject, "talk");
-                    Debug.Log("hit npc");
                 }
             }
         }
