@@ -12,6 +12,8 @@
 
 [Character with dialog Asset](https://assetstore.unity.com/packages/3d/characters/humanoids/suit-character-pack-generic-16772)
 
+[Gun Asset](https://assetstore.unity.com/packages/3d/props/guns/guns-pack-low-poly-guns-collection-192553)
+
 ## Future Development
 None
 
