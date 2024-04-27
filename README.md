@@ -22,6 +22,8 @@ The score in the top right of the screen will show how many they have killed.
 
 When the player shoots, the player will animate to reflect that they are shooting.
 
+I added a main menu that loads you into the game.
+
 ## References
 
 [City Assets](https://assetstore.unity.com/packages/3d/environments/urban/city-package-107224)
@@ -33,6 +35,8 @@ When the player shoots, the player will animate to reflect that they are shootin
 [Character with dialog Asset](https://assetstore.unity.com/packages/3d/characters/humanoids/suit-character-pack-generic-16772)
 
 [Gun Asset](https://assetstore.unity.com/packages/3d/props/guns/guns-pack-low-poly-guns-collection-192553)
+
+[Main Menu Background](https://www.freepik.com/free-photo/grunge-texture-background_6732538.htm#query=mafia%20background&position=16&from_view=keyword&track=ais&uuid=607682b8-a3e0-460f-8846-7081574a7f6ea)
 
 ## Future Development
 None
